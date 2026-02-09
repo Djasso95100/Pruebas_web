@@ -1,1 +1,1 @@
-Primer draft de sitio desde 09 febrero de 2026
+Primer draft de sitio para funcionalidad web montada desde 09/feb/26
