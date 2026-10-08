@@ -711,9 +711,9 @@ input, select, textarea {
 	}
 	@media screen and (max-width: 480px){
 		.v-container{
-			width: 360px;
+			width: 354px;
 			display: flex;
-			height: 220px;
+			height: 215px;
 			/* margin-left: -1em; */
 			justify-content: center;
 		}
@@ -3209,12 +3209,12 @@ input, select, textarea {
 				margin: 1em 2em 1em 0;
 				width: calc(50% - 1.5em);
 			}
-				.features article .image {
+			.features article .image {
 				margin-bottom: 1.5em;
 				margin-left: -1.5em;
 				margin-top: -1.5em;
-				width: 115%;
-				}
+				width: 115.6%;
+			}
 
 		}
 
